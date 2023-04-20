@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StarCraftBotBTs:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="StarCraftBotBTs.jar">
+      <element id="module-output" name="StarCraftBotBTs" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/no/fiken/oss/junixsocket/junixsocket-common/1.0.2/junixsocket-common-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/scijava/native-lib-loader/2.0.2/native-lib-loader-2.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/no/fiken/oss/junixsocket/junixsocket-native-common/1.0.2/junixsocket-native-common-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/JavaBWAPI/JBWAPI/2.1.0/JBWAPI-2.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
