@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-05-23T11:27:09.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="dd6v3hC_COS4F7Se7N5l" version="21.3.2" type="device">
+  <diagram name="Страница 1" id="AEHdOxH-Cy4cGOUaPrnz">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t6eUc-u86Puen0sjlsFC-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="325" y="110" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Последовательность&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6eUc-u86Puen0sjlsFC-1" target="t6eUc-u86Puen0sjlsFC-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="320" as="sourcePoint" />
+            <mxPoint x="435" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Атака&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="260" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Бегство&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6eUc-u86Puen0sjlsFC-2" target="t6eUc-u86Puen0sjlsFC-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t6eUc-u86Puen0sjlsFC-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t6eUc-u86Puen0sjlsFC-2" target="t6eUc-u86Puen0sjlsFC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
